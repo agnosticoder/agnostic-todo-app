@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/agnostic-todo-app/static/css/main.70e69bc0.chunk.css",
+    "main.js": "/agnostic-todo-app/static/js/main.8bbb0ee3.chunk.js",
+    "main.js.map": "/agnostic-todo-app/static/js/main.8bbb0ee3.chunk.js.map",
+    "runtime~main.js": "/agnostic-todo-app/static/js/runtime~main.790e3751.js",
+    "runtime~main.js.map": "/agnostic-todo-app/static/js/runtime~main.790e3751.js.map",
+    "static/css/2.764ccc25.chunk.css": "/agnostic-todo-app/static/css/2.764ccc25.chunk.css",
+    "static/js/2.1f293c58.chunk.js": "/agnostic-todo-app/static/js/2.1f293c58.chunk.js",
+    "static/js/2.1f293c58.chunk.js.map": "/agnostic-todo-app/static/js/2.1f293c58.chunk.js.map",
+    "index.html": "/agnostic-todo-app/index.html",
+    "precache-manifest.7f868890949e5624feb15ec16f0028b1.js": "/agnostic-todo-app/precache-manifest.7f868890949e5624feb15ec16f0028b1.js",
+    "service-worker.js": "/agnostic-todo-app/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/agnostic-todo-app/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.70e69bc0.chunk.css.map": "/agnostic-todo-app/static/css/main.70e69bc0.chunk.css.map"
+  }
+}
