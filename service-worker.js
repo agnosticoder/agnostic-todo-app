@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/agnostic-todo-app/precache-manifest.7f868890949e5624feb15ec16f0028b1.js"
+  "/agnostic-todo-app/precache-manifest.4491a6c9d806eecf05cf48c3ab8ca7c3.js"
 );
 
 self.addEventListener('message', (event) => {
