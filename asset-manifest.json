@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/agnostic-todo-app/static/css/main.57a71592.chunk.css",
-    "main.js": "/agnostic-todo-app/static/js/main.8bbb0ee3.chunk.js",
-    "main.js.map": "/agnostic-todo-app/static/js/main.8bbb0ee3.chunk.js.map",
+    "main.css": "/agnostic-todo-app/static/css/main.27590b2e.chunk.css",
+    "main.js": "/agnostic-todo-app/static/js/main.43bb258e.chunk.js",
+    "main.js.map": "/agnostic-todo-app/static/js/main.43bb258e.chunk.js.map",
     "runtime~main.js": "/agnostic-todo-app/static/js/runtime~main.790e3751.js",
     "runtime~main.js.map": "/agnostic-todo-app/static/js/runtime~main.790e3751.js.map",
     "static/css/2.764ccc25.chunk.css": "/agnostic-todo-app/static/css/2.764ccc25.chunk.css",
     "static/js/2.1f293c58.chunk.js": "/agnostic-todo-app/static/js/2.1f293c58.chunk.js",
     "static/js/2.1f293c58.chunk.js.map": "/agnostic-todo-app/static/js/2.1f293c58.chunk.js.map",
     "index.html": "/agnostic-todo-app/index.html",
-    "precache-manifest.4491a6c9d806eecf05cf48c3ab8ca7c3.js": "/agnostic-todo-app/precache-manifest.4491a6c9d806eecf05cf48c3ab8ca7c3.js",
+    "precache-manifest.c88026ec8a76c3fa826582521e544660.js": "/agnostic-todo-app/precache-manifest.c88026ec8a76c3fa826582521e544660.js",
     "service-worker.js": "/agnostic-todo-app/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/agnostic-todo-app/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.57a71592.chunk.css.map": "/agnostic-todo-app/static/css/main.57a71592.chunk.css.map"
+    "static/css/main.27590b2e.chunk.css.map": "/agnostic-todo-app/static/css/main.27590b2e.chunk.css.map"
   }
 }
